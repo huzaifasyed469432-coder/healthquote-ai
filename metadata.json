@@ -1,0 +1,6 @@
+{
+  "name": "HealthQuote AI",
+  "description": "AI-powered health insurance quotation platform for individuals, families, and businesses with instant comparison and PDF quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
